@@ -50,3 +50,5 @@ Code and documentation copyright 2014 LumApps. Code released under the [MIT lice
 [local]: http://localhost:8888
 [material]: http://www.google.com/design/spec/material-design/introduction.html
 [release]: https://github.com/lumapps/lumX/tags
+
+###please commit the scss such as bourbon materialdesignicons,I clone the object,and run,that can not find the .scss.think you.
